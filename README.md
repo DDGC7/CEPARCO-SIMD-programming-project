@@ -3,7 +3,8 @@
 ![image](https://github.com/DDGC7/CEPARCO-SIMD-programming-project/assets/99391788/1f89daec-982b-4c03-83ea-35a42e75865b)
 
 ## Average Execution Time Comparison 
-![image](https://github.com/DDGC7/CEPARCO-SIMD-programming-project/assets/99391788/d4b3ac63-8dd5-486a-9b7d-007f40e42255)
+![image](https://github.com/DDGC7/CEPARCO-SIMD-programming-project/assets/99391788/0ef69dfd-6492-4f23-93a4-096b38b59891)
+
 
 The given vector sizes to be measured are {2^20, 2^24, and 2^28 up until 2^30). However, it seems the malloc cannot handle allocating more than 2 GB of memory. The maximum it could handle apparently is only up to 2^26 for both arrays. 
 
